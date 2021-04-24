@@ -1,6 +1,6 @@
 # APKcollection
 A link to all the GO4 apps including NoSecNeo APK's 
-Now includes the DJI Fly app for the Mini and Mavic Air 2
+Now includes the DJI Fly app for the Mini/Mini 2 and Mavic Air 2
 
 I took all the GO4 APK's from APK mirror and APK4FUN and have hosted them on my google drive
 just run the tool and click the link for the version of the APK you want.
