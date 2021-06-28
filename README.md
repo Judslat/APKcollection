@@ -10,6 +10,6 @@ I have a repo for the DJI GO apk which is here https://github.com/Judslat/GOAPKc
 let me know via flymyphantom@outlook.com if you want any other files adding
 to the tool
 
-As i find more files I will increase the version number, currently that is V7
+As i find more files I will increase the version number, currently that is V8
 
 
